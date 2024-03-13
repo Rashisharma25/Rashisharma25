@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there, I'm Rashi! 👋
+
+I'm a passionate mobile developer with a flair for graphics, turning ideas into visually appealing and functional mobile applications.
+
+## 🚀 Skills
+
+- **Mobile Development:**
+  - iOS Development (Swift, SwiftUI)
+  - Android Development (Java, Kotlin)
+
+- **Graphics and UI/UX:**
+  - Adobe Creative Suite (Photoshop, Illustrator)
+  - UI/UX Design for mobile applications
+
+- **Languages:**
+  - Swift
+  - Java
+  - Kotlin
 
 
-**Rashisharma25/Rashisharma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Graphic Design
 
-Here are some ideas to get you started:
+I love creating visually stunning interfaces and graphics. Here are a few samples:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Graphic 1](url_to_graphic_1)
+![Graphic 2](url_to_graphic_2)
 
+## 📊 GitHub Stats
+
+[![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Connect with Me
+
+Let's connect! Reach out to me on:
+
+- [LinkedIn](www.linkedin.com/in/rashi-sharma-7075081a4)
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
